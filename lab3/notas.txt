@@ -1,0 +1,4 @@
+linux es muy poderoso
+bash es rapido
+docker usa linux
+me gusta automatizar
